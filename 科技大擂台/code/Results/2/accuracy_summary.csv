@@ -1,0 +1,10 @@
+﻿Method,Correct,Total,Accuracy(%)
+qwen3:8b,8198,8520,96.2207
+glm4:9b,8156,8520,95.7277
+gemma3:12b,8150,8520,95.6573
+huihui_ai/internlm3-abliterated,8098,8520,95.0469
+deepseek-r1:8b,8052,8520,94.507
+llama3.1:8b,7890,8520,92.6056
+myaniu/minicpm4-8b:Q4_K_M,7664,8520,89.9531
+mistral:7b,7485,8520,87.8521
+ingu627/phi-4-mini-instruct-q4,7283,8520,85.4812

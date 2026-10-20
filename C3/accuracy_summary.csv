@@ -1,0 +1,7 @@
+﻿Method,Correct,Total,Accuracy(%)
+Our Proposed Method,1787,1890,94.5503
+Ensemble-Majority (3 models),1772,1890,93.7566
+Ensemble-Confidence_Weighted (3 models),1772,1890,93.7566
+qwen3:8b,1753,1890,92.7513
+glm4:9b,1752,1890,92.6984
+huihui_ai/internlm3-abliterated,1751,1890,92.6455

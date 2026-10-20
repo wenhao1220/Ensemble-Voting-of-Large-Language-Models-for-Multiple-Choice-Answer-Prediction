@@ -1,0 +1,6 @@
+﻿Method,Correct,Total,Accuracy(%)
+Ensemble-Majority (3 models),1896,2002,94.7053
+Ensemble-Confidence_Weighted (3 models),1894,2002,94.6054
+huihui_ai/internlm3-abliterated,1884,2002,94.1059
+glm4:9b,1871,2002,93.4565
+qwen3:8b,1869,2002,93.3566

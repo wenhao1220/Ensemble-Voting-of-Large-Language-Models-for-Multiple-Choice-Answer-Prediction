@@ -1,0 +1,7 @@
+﻿Method,Correct,Total,Accuracy(%)
+Rule6 (Gemma==Qwen else DeepSeek-Think else BestModel),3141,3498,89.7942
+Ensemble-Majority (3 models),3098,3498,88.5649
+Ensemble-Weighted (3 models),3096,3498,88.5077
+huihui_ai/internlm3-abliterated,3080,3498,88.0503
+qwen3:8b,3040,3498,86.9068
+gemma3:12b,2984,3498,85.3059

@@ -1,0 +1,6 @@
+﻿Method,Correct,Total,Accuracy(%)
+Ensemble-Majority (3 models),1327,1436,92.4095
+Ensemble-Confidence_Weighted (3 models),1326,1436,92.3398
+huihui_ai/internlm3-abliterated,1321,1436,91.9916
+qwen3:8b,1305,1436,90.8774
+gemma3:12b,1296,1436,90.2507

@@ -1,0 +1,6 @@
+﻿Method,Correct,Total,Accuracy(%)
+Ensemble-Majority (3 models),8273,8520,97.1009
+Ensemble-Confidence_Weighted (3 models),8260,8520,96.9484
+qwen3:8b,8198,8520,96.2207
+glm4:9b,8156,8520,95.7277
+gemma3:12b,8150,8520,95.6573

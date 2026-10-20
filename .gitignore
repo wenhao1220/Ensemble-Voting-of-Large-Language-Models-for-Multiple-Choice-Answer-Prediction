@@ -1,0 +1,9 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local Anaconda project metadata
+anaconda_projects/
